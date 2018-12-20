@@ -1,15 +1,15 @@
 {
-    "token": "<BOT_TOKEN>",
-    "ownerID": "<OWNER_ID>",
-    "prefix": "<PREFIX>", 
+    "token": "NTIzODA5NDYwMjA5MzE5OTY0.Dv1nAQ.f9xqrQhzqFkB2MrRZq1SGagOXDU",
+    "ownerID": "419472407816830986",
+    "prefix": "b!", 
     "build": {
         "version": "Beta 0.9",
         "releaseDate": "TBD"
     },
     "owner": {
         "channels": {
-            "award": "<CHANNEL_ID>",
-            "report": "<CHANNEL_ID"
+            "award": "521749375714721815",
+            "report": "521749375714721815"
         },
         "awards": {
             "suggest": 250,
